@@ -1,3 +1,3 @@
 日本的烟税分三层收三次：国税、都道府县税、市町村税。经过调查，都道府县烟税全部为0，国税烟税只有各地国税局级别的数据，市町村烟税有高精度数据。
-FEH_00200251_190808113903系地方税，各地自行制定税率，实际上不能横向比较
+FEH_00200251_190808113903系地方税，各地自行制定税率，实际上不能横向比较。API http://api.e-stat.go.jp/rest/2.1/app/getStatsData?cdCat03=280&cdCat01=140&appId=&lang=J&statsDataId=0003172942&metaGetFlg=Y&cntGetFlg=N&sectionHeaderFlg=1
 smoking.xls的来源已经忘了
